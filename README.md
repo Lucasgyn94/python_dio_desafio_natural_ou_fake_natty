@@ -59,9 +59,9 @@ poetry install<br>
 ### Configure suas chaves de API no arquivo .env:
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis:<br>
 
-OPENAI_API_KEY=your_openai_api_key_here<br>
-ELEVENLABS_API_KEY=your_elevenlabs_api_key_here<br>
-ELEVENLABS_VOICE_ID=your_elevenlabs_voice_id_here<br>
+OPENAI_API_KEY=sua_openai_api_key_aqui<br>
+ELEVENLABS_API_KEY=sua_elevenlabs_api_key_aqui<br>
+ELEVENLABS_VOICE_ID=sua_elevenlabs_voice_id_aqui<br>
 
 ### Execute o projeto:
 sh<br>
